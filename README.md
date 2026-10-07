@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohan Tomar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
 - 📫 You can contact me using my mail - ntomar313@gmail.com
 - 😄 Pronouns: He/Him
 
