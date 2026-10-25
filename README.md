@@ -4,90 +4,79 @@ Full-Stack Developer | MERN & PERN Stack | Backend-Focused Software Engineer
 
 🚀 About Me
 
-I'm a B.Tech graduate and Full-Stack Developer with hands-on experience building web applications using the MERN and PERN stacks. I enjoy designing REST APIs, implementing backend logic, managing databases, and building complete applications from scratch.
+I'm a B.Tech graduate and Full-Stack Developer with hands-on experience building web applications using the MERN and PERN stacks. I enjoy developing REST APIs, implementing backend logic, managing databases, and building complete applications from scratch.
 
-My primary interest is backend development, where I focus on writing maintainable code, building reliable APIs, implementing authentication, and designing efficient database structures.
+My primary interest is backend development, with a focus on maintainable code, authentication, API design, and database management.
 
 - 🔭 Currently working on: Fluke — a full-stack MERN e-commerce application.
-- 🌱 Currently exploring: Next.js, backend architecture, and improving my frontend development skills.
-- 💼 Experience: Software development internship experience and hands-on work through development projects.
-- 👯 Looking to collaborate on: Full-stack applications, backend APIs, and open-source projects.
-- 💬 Ask me about: Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, and authentication.
-- 🎯 Career goal: Grow as a backend-focused software engineer and build scalable, real-world applications.
+- 🌱 Currently learning: Next.js, backend architecture, and software engineering best practices.
+- 💼 Experience: Software development internship and hands-on project experience.
+- 👯 Looking to collaborate on: Backend development, full-stack applications, and open-source projects.
+- 💬 Ask me about: Node.js, Express.js, REST APIs, MongoDB, PostgreSQL, and React.
+- 🎯 Career goal: Grow as a backend-focused software engineer and build scalable applications.
 
 🛠️ Technical Skills
 
 Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-"C" (https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+</p>Frontend Development
 
-Frontend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite" />
+</p>Backend Development
 
-"React" (https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45" height="45" alt="JSON" />
+</p>Databases
 
-Backend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="45" height="45" alt="Sequelize" />
+</p>Tools & Platforms
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-"Express.js" (https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-"REST API" (https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white)
-"JWT" (https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-Databases
-
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-"Sequelize" (https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
-Tools & Platforms
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-"Cloudinary" (https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-
-Areas of Interest
-
-- Backend development and API design
-- Database design and management
-- Authentication and authorization
-- Full-stack web application development
-- Software engineering and clean code
-
-💻 Featured Projects
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+  <img src="https://img.shields.io/badge/Cloudinary-Image%20Management-3448C5?style=for-the-badge" alt="Cloudinary" />
+</p>💻 Featured Projects
 
 1. Fluke — E-Commerce Platform
 
-A full-stack e-commerce application built with the MERN stack, featuring a customer-facing storefront and an admin panel for managing products and orders.
+A full-stack MERN e-commerce application featuring a customer-facing storefront and an admin panel for managing products and orders.
 
-- Tech Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS
-- Key Features: Product management, shopping cart, checkout flow, image uploads, admin authentication, and REST APIs.
+- Tech Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS, Cloudinary
+- Features: Product management, shopping cart, checkout flow, image uploads, admin authentication, and REST APIs.
 - Status: In Progress
-- Repository: "View my GitHub profile" (https://github.com/Rohan-218)
+- Repository: "Fluke-Clothings" (https://github.com/Rohan-218/Fluke-Clothings)
 
 2. Student–Teacher Portal
 
-A role-based portal designed to manage interactions between students, teachers, and administrators, with backend APIs and a relational database.
+A role-based portal designed to manage students, teachers, and administrators through REST APIs and a relational database.
 
 - Tech Stack: Node.js, Express.js, PostgreSQL, Sequelize, React
-- Key Contributions: Database design, REST API development, authentication, role-based access, and API documentation using Postman.
-- Deployment: "Live Backend API" (https://student-teacher-portal-server.onrender.com)
-- Repository: "Student–Teacher Portal" (https://github.com/Rohan-218/Student-Teacher-Portal)
+- Contributions: Database design, API development, authentication, role-based access, and Postman documentation.
+- Live Backend: "Student–Teacher Portal API" (https://student-teacher-portal-server.onrender.com)
+- Repository: "Student–Teacher-Portal" (https://github.com/Rohan-218/Student-Teacher-Portal)
 
 3. Bank Transaction System
 
-A backend-focused application demonstrating layered server-side architecture and the implementation of banking-related operations.
+A backend-focused project demonstrating server-side logic, API organization, authentication, and database integration.
 
 - Tech Stack: Node.js, Express.js, MongoDB
-- Key Features: Authentication, organized controllers and routes, service-layer logic, and database integration.
-- Status: Development project
-- Repository: "Bank Transaction System" (https://github.com/Rohan-218/Bank_Transaction_System)
+- Repository: "Bank_Transaction_System" (https://github.com/Rohan-218/Bank_Transaction_System)
 
 📊 GitHub Statistics
 
@@ -97,12 +86,19 @@ A backend-focused application demonstrating layered server-side architecture and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-218&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=Rohan-218&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>🤝 Let's Connect
+</p>
+🤝 Connect With Me
 
-- 💻 GitHub: "github.com/Rohan-218" (https://github.com/Rohan-218)
-- 🌐 Portfolio: Check my GitHub profile for my latest projects.
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
-- 📧 Email: Add your professional email address here.
+<p>
+  <a href="https://www.linkedin.com/in/rohan-tomar-rt">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://personal-portfolio-9t04tfbpb-rohan-218s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ntomar313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
 💡 My Motto
 
@@ -110,4 +106,4 @@ A backend-focused application demonstrating layered server-side architecture and
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I continue building and learning.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
