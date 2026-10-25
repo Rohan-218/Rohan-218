@@ -2,10 +2,6 @@ Hi, I'm Nikhil Tomar 👋
 
 Full-Stack Developer | MERN & PERN Stack | Backend-Focused Software Engineer
 
-""Profile Views" (https://komarev.com/ghpvc/?username=Rohan-218&label=Profile%20Views&color=blueviolet&style=flat)" (https://github.com/Rohan-218)
-""GitHub followers" (https://img.shields.io/github/followers/Rohan-218?label=Followers&style=social)" (https://github.com/Rohan-218)
-""GitHub stars" (https://img.shields.io/github/stars/Rohan-218?label=Stars&style=social)" (https://github.com/Rohan-218)
-
 🚀 About Me
 
 I'm a B.Tech graduate and Full-Stack Developer with hands-on experience building web applications using the MERN and PERN stacks. I enjoy designing REST APIs, implementing backend logic, managing databases, and building complete applications from scratch.
